@@ -1,0 +1,27 @@
+/* add your CSS here */
+body {
+  font-family: Verdana, sans-serif;
+  width: 340px;
+}
+
+.elephant{
+  display: block;
+  margin: auto;
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+}
+
+#center{
+      margin: auto;
+      border: 1px solid grey;
+      padding: 10px;
+
+}
+
+#extra {
+    margin: auto;
+    padding: 10px;
+    border: 1px solid grey;
+    padding: 5px;
+}
