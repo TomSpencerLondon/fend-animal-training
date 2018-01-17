@@ -4,6 +4,10 @@ body {
   width: 340px;
 }
 
+span {
+  font-weight: bold;
+}
+
 .elephant {
   display: block;
   margin: auto;
